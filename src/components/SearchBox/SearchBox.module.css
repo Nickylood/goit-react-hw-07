@@ -1,0 +1,18 @@
+.wraper {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  color: rgba(113, 23, 101, 0.466);
+}
+.input {
+  display: flex;
+  width: 360px;
+  border-radius: 4px;
+  background-color: transparent;
+  color: inherit;
+  border: 2px solid;
+}
+input:hover {
+  border-color: rgb(104, 188, 14);
+}
